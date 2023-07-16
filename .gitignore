@@ -18,3 +18,23 @@ client-app/build/
 
 # Ignore MacOS system files
 .DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.swn
+*.py~
