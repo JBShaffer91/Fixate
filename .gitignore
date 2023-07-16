@@ -1,0 +1,20 @@
+# .gitignore file
+
+# Ignore .NET build files
+bin/
+obj/
+
+# Ignore Node.js build files
+node_modules/
+
+# Ignore React build files
+client-app/build/
+
+# Ignore environment variables
+.env
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore MacOS system files
+.DS_Store
