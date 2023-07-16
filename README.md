@@ -42,7 +42,7 @@ Any open issues.
 
 ## License
 
-Your chosen license for the project.
+This project and all of its source code is proprietary and confidential. All rights are reserved. Unauthorized copying of this file, via any medium is strictly prohibited.
 
 ## Contact Information
 
