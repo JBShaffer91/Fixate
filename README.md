@@ -22,7 +22,8 @@ Fixate is a personal growth and mastery tracking app designed for everyone. It a
 
 - Frontend: React.js
 - Backend: .NET Core
-- Database: MySQL
+- Database: MongoDB
+- AI/NLP: Python with spaCy
 - State Management: Redux
 - Routing: React Router
 - Authentication: Firebase Authentication
@@ -30,6 +31,7 @@ Fixate is a personal growth and mastery tracking app designed for everyone. It a
 - Styling: CSS Modules
 - Deployment: AWS
 - Version Control: Git & GitHub
+
 
 ## Setup/Installation Requirements
 
